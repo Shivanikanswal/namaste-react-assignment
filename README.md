@@ -1,1 +1,1 @@
-# FoodMania-App
+# Namaste-react-assignment
